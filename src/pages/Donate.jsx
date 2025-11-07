@@ -2,7 +2,7 @@ import React from "react";
 import { Link } from "react-router-dom";
 
 const Donate = () => {
-  const givingUrl = "https://ponyup.boisestate.edu/campaigns/nasa-artemis-challenge";
+  const givingUrl = "https://ponyup.boisestate.edu/campaigns/nasa-artemis-challenge-2";
 
   // dark-glass presets to keep consistency
   const glass = "rounded-xl border border-white/10 bg-dark-surface/70 backdrop-blur p-5 shadow";
@@ -37,8 +37,8 @@ const Donate = () => {
         <div className="mt-6 flex flex-wrap gap-3">
           {/* Boise State Giving (external) */}
           <a
-            // href={givingUrl}
-            target="https://ponyup.boisestate.edu/campaigns/nasa-artemis-challenge-2"
+            href={givingUrl}
+            target="#"
             rel="noreferrer"
             className="px-5 py-2 rounded-lg border border-dark-accent text-dark-accent hover:bg-dark-accent hover:text-dark-bg transition"
           >
