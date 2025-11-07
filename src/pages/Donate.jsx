@@ -38,7 +38,7 @@ const Donate = () => {
           {/* Boise State Giving (external) */}
           <a
             // href={givingUrl}
-            target="_blank"
+            target="https://ponyup.boisestate.edu/campaigns/nasa-artemis-challenge-2"
             rel="noreferrer"
             className="px-5 py-2 rounded-lg border border-dark-accent text-dark-accent hover:bg-dark-accent hover:text-dark-bg transition"
           >
@@ -59,7 +59,7 @@ const Donate = () => {
       <section className="container pb-10">
         <h3 className="text-xl font-semibold text-dark-secondary">Give through Boise State</h3>
         <p className="mt-2 text-dark-muted">
-          Our donation page is currently under construction. Please fill out the form below to start the donation process.{" "}
+          Please go to the Bronco Giving site through the button above to donate to the team. If you have any problems with the site, please fill out the form below.{" "}
           <a
             href={givingUrl}
             target="_blank"

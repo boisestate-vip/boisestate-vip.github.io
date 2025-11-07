@@ -190,7 +190,7 @@ Below is the content template and hierarchy for the Bender ARS site.
 - **Support the Mission:**  
   Help fund equipment, travel, and student opportunities.  
 - **Donation Options:**  
-  - [Boise State Giving Link](#)  
+  - [Boise State Giving Link](https://ponyup.boisestate.edu/campaigns/nasa-artemis-challenge-2)  
   - In-kind donation form (tools, parts, facility access).  
 
 ---
